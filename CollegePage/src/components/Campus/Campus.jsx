@@ -1,10 +1,10 @@
 import React from 'react'
 import './Campus.css'
-import gallery_1 from '../../assets/Band.jpg'
-import gallery_2 from '../../assets/Dday.jpg'
-import gallery_3 from '../../assets/Band2.jpg'
-import gallery_4 from '../../assets/kingswyld.jpg'
-import white-arrow from '../../assets/white-arrow.png'
+import gallery_1 from '../../assets/Student.jpg'
+import gallery_2 from '../../assets/Bench.jpg'
+import gallery_3 from '../../assets/Class.jpg'
+import gallery_4 from '../../assets/Activity.jpg'
+import white_arrow from '../../assets/white-arrow.png'
 
 const Campus = () => {
   return (
@@ -16,7 +16,7 @@ const Campus = () => {
         <img src={gallery_4} alt="" />
       </div>
       <button className='btn dark-btn'>See more here <img src=
-      {red_arrow} alt="" /></button>
+      {white_arrow} alt="" /></button>
     </div>
   )
 }

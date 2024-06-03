@@ -4,7 +4,7 @@ import msg_icon from '../../assets/msg-icon2.png'
 import mail_icon from '../../assets/mail-icon.png'
 import phone_icon from '../../assets/phone-icon.png'
 import location_icon from '../../assets/location-icon.png'
-import red_arrow from '../../assets/red_arrow.png'
+import white_arrow from '../../assets/white-arrow.png'
 
 const Contact = () => {
 
@@ -57,7 +57,7 @@ const Contact = () => {
           <input type="tel" name='phone' placeholder='Enter phone number' required/>
           <label>Write your message here</label>
           <textarea name="message" row="6" placeholder='Enter your message' required></textarea>
-          <button type='submit' className='btn dark-btn'>Submit <img src={red_arrow} alt="" /></button>
+          <button type='submit' className='btn dark-btn'>Submit <img src={white_arrow} alt="" /></button>
         </form>
         <span>{result}</span>
       </div>

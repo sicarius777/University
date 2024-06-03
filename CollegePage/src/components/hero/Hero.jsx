@@ -1,6 +1,6 @@
 import React from 'react'
 import './hero.css'
-import UIR from '../../assets/UIR.png'
+import UIR from '../../assets/Grad_hat.png'
 const Hero = () => {
   return (
     <div className='hero container'>
