@@ -1,32 +1,33 @@
 import React from 'react'
 import './Programs.css'
-import  Desk from '../../assets/Desk.jpg'
-import  Grad1 from '../../assets/Grad1.png'
-import  Grad2 from '../../assets/Grad2.jpg'
+import  Grad1 from '../../assets/program-1.png'
+import  Grad2 from '../../assets/program-2.png'
+import  Grad3 from '../../assets/program-3.png'
 import  Study from '../../assets/Study.png'
-import Hats from '../../assets/Grad_hat.png'
+import icon2 from '../../assets/program-icon-2.png'
+import icon3 from '../../assets/program-icon-3.png'
 
 const Programs = () => {
   return (
     <div className='programs' name="Tools">
       <div className='program'>
-        <img src={Desk} alt="" />
+        <img src={Grad1} alt="" />
         <div className="caption">
             <img src={Study} alt="" />
             <p>Placeholder</p>
         </div>
       </div>
       <div className='program'>
-        <img src={Grad1} alt="" />
+        <img src={Grad2} alt="" />
         <div className="caption">
-            <img src={Hats} alt="" />
+            <img src={icon2} alt="" />
             <p>Placeholder</p>
         </div>
       </div>
       <div className='program'>
-        <img src={Grad2} alt="" />
+        <img src={Grad3} alt="" />
         <div className="caption">
-            <img src={Hats} alt="" />
+            <img src={icon3} alt="" />
             <p>Placeholder</p>
         </div>
       </div>

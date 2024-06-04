@@ -50,8 +50,8 @@ const slideBackward = ()=>{
               <div className='user-info'>
                 <img src={user_2} alt="" />
                 <div>
-                  <h3>J.R.R. Tolkien</h3>
-                  <span>Middle Earth</span>
+                  <h3>Mark Anthony</h3>
+                  <span>Bachelors in Computer Science</span>
                 </div>
               </div>
               <p>All that is gold does not glitter, not all those who wander are lost; the old that is strong does not wither, 
