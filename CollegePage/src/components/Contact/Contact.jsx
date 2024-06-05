@@ -43,9 +43,9 @@ const Contact = () => {
             informtion below. Your feedback, questions, and suggestions are 
             important to us we strive to the writing community.
             <ul>
-                <li> <img src={mail_icon} alt="" />CodexOfWorlds@gmail.com</li>
+                <li> <img src={mail_icon} alt="" />MockEmail@webservice.com</li>
                 <li> <img src={phone_icon} alt="" />123-456-7890</li>
-                <li> <img src={location_icon} alt="" />The HeartWyald</li>
+                <li> <img src={location_icon} alt="" />Your address</li>
             </ul>
         </p>
       </div>
