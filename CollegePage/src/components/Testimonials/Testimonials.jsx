@@ -37,12 +37,13 @@ const slideBackward = ()=>{
               <div className='user-info'>
                 <img src={user_1} alt="" />
                 <div>
-                  <h3>Brandon Sanderson</h3>
-                  <span>The Cosmere</span>
+                  <h3>Emily Smith</h3>
+                  <span>Masters in Engineering</span>
                 </div>
               </div>
-              <p>Sanderson's First Law: An author's ability to solve conflict with magic is DIRECTLY 
-                proportional to how well the reader understands said magic.</p>
+              <p>Pursuing my Master's in Engineering was a transformative experience that significantly shaped both my professional 
+                and personal development. The rigorous curriculum, coupled with hands-on projects and cutting-edge research opportunities, 
+                provided me with a deep understanding of advanced engineering concepts and practices.</p>
             </div>
           </li>
           <li>
@@ -54,8 +55,10 @@ const slideBackward = ()=>{
                   <span>Bachelors in Computer Science</span>
                 </div>
               </div>
-              <p>All that is gold does not glitter, not all those who wander are lost; the old that is strong does not wither, 
-                deep roots are not reached by the frost. Not all those who wander are lost.</p>
+              <p>Completing my Bachelor's in Computer Science was an incredible journey that profoundly impacted 
+                my academic and professional trajectory. The program's comprehensive curriculum provided a solid 
+                foundation in both theoretical concepts and practical applications, covering everything from algorithms 
+                and data structures to software engineering and artificial intelligence.</p>
             </div>
           </li>
           <li>
@@ -63,13 +66,14 @@ const slideBackward = ()=>{
               <div className='user-info'>
                 <img src={user_3} alt="" />
                 <div>
-                  <h3>Nicholas Eames</h3>
-                  <span>Kings of the wyald & The bloody rose</span>
+                  <h3>Nichole Eames</h3>
+                  <span>Bachelors in Biology</span>
                 </div>
               </div>
-              <p>“Or not lost, he considered, since they lingered on in the hearts of those who loved them, 
-                who love them still, their memory nurtured like a sprig of green in an otherwise desolate soul. 
-                Which was, he supposed, a kind of immortality, after all.”</p>
+              <p>Completing my Bachelor's in Biology was a deeply enriching experience that 
+                significantly shaped my academic interests and career path. The program's 
+                diverse curriculum provided a thorough grounding in various biological 
+                disciplines, from molecular biology and genetics to ecology and evolution.</p>
             </div>
           </li>
           <li>
@@ -77,11 +81,13 @@ const slideBackward = ()=>{
               <div className='user-info'>
                 <img src={user_4} alt="" />
                 <div>
-                  <h3>George R.R. Martin</h3>
-                  <span>Song of ice and fire.</span>
+                  <h3>Taylor Cliffton</h3>
+                  <span>Bachelors in Economics</span>
                 </div>
               </div>
-              <p> A reader lives a thousand lives before he dies. The man who never reads lives only once.</p>
+              <p> Earning my Bachelor's in Economics was a pivotal experience that profoundly shaped my academic 
+                interests and career ambitions. The program's rigorous curriculum provided a comprehensive understanding
+                 of economic theory, quantitative methods, and the intricate workings of both domestic and global economies.</p>
             </div>
           </li>
         </ul>
